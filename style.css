@@ -1,0 +1,217 @@
+.body{
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card{
+    width: 500px;
+    background-color: #fff;
+    border: 1px solid lightgray;
+    border-radius: 14px;
+    margin: 50px auto;
+}
+.img-sec{
+    position: relative;
+    padding: 10px;
+}
+.rest{
+    border-radius: 14px;
+    width: 100%;
+}
+.promote{
+    text-align: center;
+    height: 30px;
+    font-size: 18px;
+    width: 80px;
+    color: #fff;
+    background-color:gray;
+    padding: 1px;
+    position: absolute;
+    top: 0;
+    margin: 20PX;
+    padding-top: 0;
+    padding-bottom: 15px;
+}
+.offer{
+    height: 40px;
+    color: #ffffff;
+    background-color: blue;
+    font-size: 20px;
+    position: absolute;
+    padding: 8px;
+    padding-top: 0;
+    bottom: 0;
+    margin-bottom: 40px;
+}
+.min{
+    text-align: center;
+    width: 60px;
+    color: #000000;
+    background-color: #fff;
+    padding: 1px;
+    padding-bottom: 5px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 40PX;
+    border-radius: 2px;
+}
+
+.card-content{
+    padding: 10px;
+}
+
+.side-banner{
+    background-color: rgb(77, 224, 77);
+    width: 100px;
+    padding: 1px;
+    height: 50px;
+}
+.max{
+    background-color: gold;
+    color: #000000;
+    font-weight: bold;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.deli{
+    color: #fff;
+    padding-left: 10px;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.bottom{
+    position: relative;
+    padding: 10px;
+}
+.follow{
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 20px;
+    padding-left: 150px;
+}
+
+.bali{
+    width: 400px;
+
+}
+
+.bali-img{
+    width: 800px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 14px;
+}
+.bali-content{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+}
+.explore{
+    background-color:#ffffff ;
+    font-size: 20px;
+    color: #000000;
+    border-radius: 40px;
+}
+
+
+.zomato{
+    width: 400px;
+
+}
+
+.zomato-img{
+    width: 800px;
+    height: 300px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.zomato-content{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.header{
+    color: #ffffff;
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+.search-sec{
+    background-color: #fff;
+}
+.search{
+    width: 350px;
+    border: none;
+    padding-left: 20px;
+}
+.location-icon{
+    width: 20px;
+    height: 15px;
+}
+.search-icon{
+    width: 20px;
+    height: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.select-value{
+    border: none;
+    border-right: 20px;
+}
+
+.profile{
+    width: 600px;
+    background-color: #fff;
+    margin: 50px auto;
+    padding: 10px;
+}
+.mountain-img{
+    width: 600px;
+    height: 300px;
+    position: relative;
+    border-top-right-radius: 14px;
+    border-top-left-radius: 14px;
+
+}
+
+.profile-img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid #ffffff;
+    border-radius: 100px;
+}
+.profile-content{
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    top: 70%;
+    right: 44%;
+}
+.heading{
+color: #000000;
+}
